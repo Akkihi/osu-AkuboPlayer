@@ -1,4 +1,4 @@
-# osu-AkuboPlayer
+# osu! Akubo Player
 My little osu!player for listenning without osu!client
 
 
