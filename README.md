@@ -17,7 +17,8 @@ It is important that the "\Songs" folder is in "\ osu!\".
 
 3.I think next ver will have a search mode.
 
+4.Video little review https://youtu.be/ZJperoM22NQ
 
-4.Download here: https://github.com/Akkihi/osu-AkuboPlayer/releases first asset.
+5.Download here: https://github.com/Akkihi/osu-AkuboPlayer/releases first asset.
 
 PS: My telegram channel for russian speakers https://t.me/akkihiofficial News\Music\Stuff
