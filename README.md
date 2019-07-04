@@ -13,7 +13,6 @@ It is important that the "\Songs" folder is in "\ osu!\".
 
 2.This player using bass.dll, please don't delete this.
 
-
 3. I think next ver will have a search mode.
 
 
